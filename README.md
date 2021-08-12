@@ -9,7 +9,7 @@ My repositories for the 21 (42) schools "philosophers" project
 
 ![GitHub Logo](/png/result.png)
 
-# The Dining Philosopher’s Problem
+## The Dining Philosopher’s Problem
 
 ![GitHub Logo](/png/philo.png)
 
